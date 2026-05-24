@@ -1,0 +1,17 @@
+2026-05-24 22:39:34 | INFO     | __main__ | Initialisiere Sumo Bot...
+2026-05-24 22:39:34 | INFO     | src.database.db | Verwende JSON-Datenbank (data/ Ordner)
+2026-05-24 22:39:34 | INFO     | src.database.db | JSON-Datenbank initialisiert: C:\Users\laila\Downloads\sumo-bot (3)\data
+2026-05-24 22:39:34 | INFO     | src.database.db | JSON-Datenbank bereit (kein MongoDB nötig)
+2026-05-24 22:39:34 | INFO     | src.handlers.command_handler | ✓ Cog geladen: src.commands.ticket_commands
+2026-05-24 22:39:34 | INFO     | src.handlers.command_handler | ✓ Cog geladen: src.commands.automod_commands
+2026-05-24 22:39:34 | INFO     | src.handlers.command_handler | ✓ Cog geladen: src.commands.moderation_commands
+2026-05-24 22:39:34 | INFO     | src.handlers.command_handler | ✓ Cog geladen: src.commands.setup_commands
+2026-05-24 22:39:34 | INFO     | src.handlers.command_handler | ✓ Cog geladen: src.commands.status_commands
+2026-05-24 22:39:34 | INFO     | src.handlers.command_handler | ✓ Cog geladen: src.commands.stats_commands
+2026-05-24 22:39:34 | INFO     | src.handlers.event_handler | ✓ Event-Cog geladen: src.events.ticket_events
+2026-05-24 22:39:34 | INFO     | src.handlers.event_handler | ✓ Event-Cog geladen: src.events.automod_events
+2026-05-24 22:39:34 | INFO     | src.handlers.event_handler | ✓ Event-Cog geladen: src.events.log_events
+2026-05-24 22:39:34 | INFO     | src.handlers.event_handler | ✓ Event-Cog geladen: src.events.moderation_events
+2026-05-24 22:39:35 | INFO     | __main__ | Commands global synchronisiert (bis 1h Verzögerung möglich)
+2026-05-24 22:39:37 | INFO     | __main__ | ✅ Sumo Bot ist online als Sumo#6101 (ID: 1508146460741472307)
+2026-05-24 22:39:37 | INFO     | __main__ |    0 Server | 1 User

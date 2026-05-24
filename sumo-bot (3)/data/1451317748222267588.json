@@ -1,0 +1,48 @@
+{
+  "config": {
+    "panels.1508208958371008666": {
+      "message_id": 1508208958371008666,
+      "channel_id": 1451318968374788099,
+      "title": "ee",
+      "categories": [
+        {
+          "name": "Allgemeiner Support",
+          "description": "Fragen und allgemeine Hilfe",
+          "emoji": "💬",
+          "staff_roles": [],
+          "welcome_message": "Willkommen! Beschreibe bitte dein Anliegen."
+        },
+        {
+          "name": "Technischer Support",
+          "description": "Technische Probleme und Bugs",
+          "emoji": "🔧",
+          "staff_roles": [],
+          "welcome_message": "Beschreibe das technische Problem so genau wie möglich."
+        },
+        {
+          "name": "Bewerbung",
+          "description": "Team-Bewerbungen",
+          "emoji": "📋",
+          "staff_roles": [],
+          "welcome_message": "Vielen Dank für deine Bewerbung! Wir melden uns bald."
+        },
+        {
+          "name": "Report",
+          "description": "Mitglieder oder Verstöße melden",
+          "emoji": "🚨",
+          "staff_roles": [],
+          "welcome_message": "Beschreibe den Vorfall mit allen relevanten Details."
+        }
+      ],
+      "panel_type": "buttons",
+      "created_at": "2026-05-24 20:43:57.581375+00:00"
+    }
+  },
+  "tickets": {},
+  "ticket_counter": 0,
+  "warnings": [],
+  "mod_logs": [],
+  "automod_rules": [],
+  "ratings": [],
+  "panels": {}
+}

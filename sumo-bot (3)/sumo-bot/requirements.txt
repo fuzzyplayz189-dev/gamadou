@@ -1,0 +1,13 @@
+# Pflicht-Pakete — immer installieren
+discord.py>=2.4.0
+python-dotenv>=1.0.0
+aiohttp>=3.9.1
+jinja2>=3.1.2
+
+# Optional aber empfohlen
+colorlog>=6.8.0
+psutil>=5.9.8
+
+# Optional — nur wenn MongoDB gewünscht wird
+# motor>=3.3.2
+# pymongo>=4.6.1
